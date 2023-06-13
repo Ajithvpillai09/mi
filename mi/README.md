@@ -9,6 +9,6 @@ This project is a clone of the home page of Mi, a popular technology company. It
 .CSS
 
 ## Contact
-For any questions or inquiries, please contact ajithvkallada.com.
+For any questions or inquiries, please contact ajithvkallada@gmail.com
 
 
